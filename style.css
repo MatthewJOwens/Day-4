@@ -6,7 +6,7 @@
 }
 
 .bg-header-image {
-  background: url('https://www.denofgeek.com/wp-content/uploads/2020/03/e3-2020-xbox.jpg?fit=2000%2C500&resize=2000%2C500') no-repeat center center inherit;
+  background: url('https://www.denofgeek.com/wp-content/uploads/2020/03/e3-2020-xbox.jpg?fit=2000%2C500&resize=2000%2C500') no-repeat center center scroll;
   background-size: initial;
 }
 
